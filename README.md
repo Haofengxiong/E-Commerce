@@ -1,2 +1,2 @@
-# cs372-project
-This is a ebay-like website for a school project.
+E commerce web app.
+This is a personal project.
